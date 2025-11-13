@@ -32,7 +32,8 @@ public:
     double getOpeningBonus() const override { return 420000; }   // Бонус
     double getDepositBonus() const override { return 15000; }    // Бонус
 };
-##### 2. Базовый класс 
+
+#### 2. Базовый класс
 class Person {
 protected:
     string name;
