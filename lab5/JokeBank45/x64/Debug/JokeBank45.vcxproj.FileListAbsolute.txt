@@ -1,0 +1,7 @@
+C:\Users\Roothless\source\repos\JokeBank45\JokeBank45\x64\Debug\JokeBank45.vcxproj.AssemblyReference.cache
+C:\Users\Roothless\source\repos\JokeBank45\JokeBank45\x64\Debug\JokeBank45.AddConMan.resources
+C:\Users\Roothless\source\repos\JokeBank45\JokeBank45\x64\Debug\JokeBank45.MyForm.resources
+C:\Users\Roothless\source\repos\JokeBank45\JokeBank45\x64\Debug\JokeBank45.MyForm2.resources
+C:\Users\Roothless\source\repos\JokeBank45\JokeBank45\x64\Debug\JokeBank45.MyForm3.resources
+C:\Users\Roothless\source\repos\JokeBank45\JokeBank45\x64\Debug\JokeBank45.vcxproj.GenerateResource.cache
+C:\Users\Roothless\source\repos\JokeBank45\JokeBank45\x64\Debug\JokeBank.D4301191.Up2Date
